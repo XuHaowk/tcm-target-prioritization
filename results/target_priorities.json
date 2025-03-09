@@ -1,0 +1,422 @@
+{
+  "compound_0": [
+    {
+      "target_id": "target_8",
+      "score": 0.3505217803382835
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.34764117279290774
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.34718377494454
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.34523853191375353
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.3446209659540615
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.3445466277861557
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.3439510797822437
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.3414244448506794
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.34089167022347067
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.33917471447229003
+    }
+  ],
+  "compound_1": [
+    {
+      "target_id": "target_8",
+      "score": 0.35973970421790696
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.3560491410756073
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.35220563539504623
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.35154333540439225
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.35132856794833756
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.3509430018925629
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3505043340587578
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.3487260831260643
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.344480029281374
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.3427812998855076
+    }
+  ],
+  "compound_2": [
+    {
+      "target_id": "target_9",
+      "score": 0.36442808934688187
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.36179964074134446
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.36125827559470747
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.36043210008382415
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.35799870916843035
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.35687925198316195
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.3529978347682915
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.34815030374765016
+    },
+    {
+      "target_id": "target_8",
+      "score": 0.34717218333124733
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3383894143366776
+    }
+  ],
+  "compound_3": [
+    {
+      "target_id": "target_1",
+      "score": 0.36171252855300523
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3573040170335732
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.3534368959927521
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.3520063442850075
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.3511158270502052
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.3505262134337387
+    },
+    {
+      "target_id": "target_8",
+      "score": 0.35046079435586547
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.34914904960631943
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.34651663058638194
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.3380574526005945
+    }
+  ],
+  "compound_4": [
+    {
+      "target_id": "target_2",
+      "score": 0.36329547294616316
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.3626016093158684
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.3619483096265755
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.36047960349559405
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.3601699365043602
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.3583335829639397
+    },
+    {
+      "target_id": "target_8",
+      "score": 0.35540088840961076
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.3548273561263046
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3535548893475494
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.35261397489547347
+    }
+  ],
+  "compound_5": [
+    {
+      "target_id": "target_2",
+      "score": 0.36373603769778823
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.3573256594800911
+    },
+    {
+      "target_id": "target_8",
+      "score": 0.35498449930190656
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.35469916888713454
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.35299353727340316
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3527941984796486
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.3521254194641075
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.3521240887904129
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.3494572086000404
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.3422104982399902
+    }
+  ],
+  "compound_6": [
+    {
+      "target_id": "target_4",
+      "score": 0.3640180183315239
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.3592471433544121
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.3585204882287941
+    },
+    {
+      "target_id": "target_8",
+      "score": 0.35751815566062545
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.35647584327697374
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.3554450465106926
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.35428142377376176
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.34842679330348586
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3446413492524586
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.3429474038743935
+    }
+  ],
+  "compound_7": [
+    {
+      "target_id": "target_3",
+      "score": 0.35511749514579394
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.34950653591394043
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.34918914714097593
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.34808411800503347
+    },
+    {
+      "target_id": "target_8",
+      "score": 0.34553690307974433
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.3450821442270241
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.34201237389087297
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.3402894457542858
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3388726109379492
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.3375667923802099
+    }
+  ],
+  "compound_8": [
+    {
+      "target_id": "target_8",
+      "score": 0.3597268251442871
+    },
+    {
+      "target_id": "target_7",
+      "score": 0.3526783389711342
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3501913083457909
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.34686369725703814
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.34594966449975584
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.3442954538130722
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.3441479874515495
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.34314615109204866
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.34060587302982426
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.3383754417040906
+    }
+  ],
+  "compound_9": [
+    {
+      "target_id": "target_7",
+      "score": 0.3555053544902763
+    },
+    {
+      "target_id": "target_1",
+      "score": 0.35407402643203356
+    },
+    {
+      "target_id": "target_2",
+      "score": 0.3502059681081734
+    },
+    {
+      "target_id": "target_9",
+      "score": 0.3501500172281227
+    },
+    {
+      "target_id": "target_8",
+      "score": 0.34961213299274063
+    },
+    {
+      "target_id": "target_6",
+      "score": 0.34957144090175246
+    },
+    {
+      "target_id": "target_0",
+      "score": 0.34811685511111834
+    },
+    {
+      "target_id": "target_4",
+      "score": 0.34755446666121104
+    },
+    {
+      "target_id": "target_5",
+      "score": 0.3454546799623928
+    },
+    {
+      "target_id": "target_3",
+      "score": 0.3453974684441051
+    }
+  ]
+}

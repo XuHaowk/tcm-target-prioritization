@@ -1,0 +1,12 @@
+Optimized for: mrr
+Embedding Weight: 0.0000
+Importance Weight: 1.0000
+
+Performance with Optimal Weights:
+MRR: 0.0672
+Mean Rank: 18.82
+Mean Normalized Rank: 0.5535
+Hit@1: 0.0000
+Hit@5: 0.0000
+Hit@10: 0.2121
+Hit@20: 0.6061

@@ -1,0 +1,11 @@
+compound,target,validation_method,confidence_score,reference_source
+C10,T4,experimental,0.8581845357503042,literature
+C50,T9,experimental,0.4742985011023616,literature
+C3,T5,experimental,0.7423112733659788,literature
+C21,T4,experimental,0.23620791837795185,literature
+C30,T10,experimental,0.8773029099176878,literature
+C16,T7,experimental,0.9308879819801872,literature
+C45,T7,experimental,0.27933664412846626,literature
+C12,T2,experimental,0.3115260145658716,literature
+C38,T9,experimental,0.32977936238713956,literature
+C38,T7,experimental,0.1489525519079753,literature
